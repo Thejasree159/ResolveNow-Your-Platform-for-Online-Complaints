@@ -27,7 +27,7 @@ Deployment: vercel / Netlify / Heroku / Render
 Dashboard | Register Complaint | Status Tracking
 
 Login | Complaint List | Admin Panel
-Deployment: Vercel / Netlify / Heroku / Render
+
 # ⚙️ Installation & Setup
 1.Clone the repository:
 
@@ -50,5 +50,44 @@ JWT_SECRET=your_secret_key
 npm start
 
 5.🧪 Testing 
+
 Run tests using:
+
 npm test
+
+# 📌 Future Enhancements
+
+🧾 Complaint Category & Priority 
+
+📤 Files Uploads for Evidence 
+
+🔔 Push Notifications 
+
+💬 Live chat support 
+
+🗣️ Multi-Language Support 
+
+📈 Analytics Dashboard for Admins 
+
+# 🐞 Known Issues 
+
+No push notification support yet
+
+UI responsiveness may vary on extremely small screens 
+
+No live chat functionality yet
+
+# 🤝 Contributing 
+
+We welcome contributions!
+Fork the respiratory and submit a pull request to contribute to Resolve now
+
+# 📄 License 
+
+This project is licensed under the MIT License 
+
+# 🔗 Resources 
+
+📁 Drive Folder:
+
+🎥 Live Demo : 
