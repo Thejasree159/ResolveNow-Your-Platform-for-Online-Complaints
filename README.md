@@ -88,6 +88,6 @@ This project is licensed under the MIT License
 
 # 🔗 Resources 
 
-📁 Drive Folder:
+📁 Drive Folder: https://drive.google.com/drive/folders/1uGwb-keRjCab88xNFCD4EoXzZsDChZe3
 
-🎥 Live Demo : 
+🎥 Live Demo : https://drive.google.com/drive/folders/1uGwb-keRJCab88xNFCD4EoXzZsDChZe3
