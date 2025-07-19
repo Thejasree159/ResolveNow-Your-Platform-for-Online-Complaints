@@ -17,46 +17,49 @@ ResolveNow is a simple and efficient platform that allows users to register comp
 📱 Responsive UI (Mobile + Web Friendly)
 
 # 🛠️ Tech stack
-Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
-Backend: Node.js / Django / Flask (edit based on your stack)
+- **Frontend**: HTML, CSS, JavaScript / React (edit based on your stack)
 
-Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
+- **Backend**: Node.js / Django / Flask (edit based on your stack)
 
-Authentication: JWT / Firebase / OAuth
-Deployment: vercel / Netlify / Heroku / Render
+- **Database**: MongoDB / MySQL / PostgreSQL (edit as applicable)
+
+- **Authentication**: JWT / Firebase / OAuth
+
+- **Deployment**: vercel / Netlify / Heroku / Render
 
 # 📸 Screenshots
-Dashboard
-| Register Complaint | Status Tracking
-
+Dashboard| Register Complaint | Status Tracking
+|........|....................|....................
 # ⚙️ Installation & Setup
-1.Clone the repository:
 
+1.Clone the repository:
+```bash
 git clone https:// github.com/your-username/resolvenow.git
+  ```
 
 2.Install dependencies:
-
+```bash
 npm install
-
+```
 3.Set up environment variables:
 
 create a .env file and add your configuration:
-
+```env
 DB_URI=your_database_uri
 
 JWT_SECRET=your_secret_key
-
+```
 4.Start the development server:
-
+```bash
 npm start
-
+```
 5.🧪 Testing 
 
 Run tests using:
-
+```bash
 npm test
-
+```
 # 📌 Future Enhancements
 
 🧾 Complaint Category & Priority 
