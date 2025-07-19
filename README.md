@@ -22,6 +22,12 @@ Backend: Node.js / Django / Flask (edit based on your stack)
 Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
 
 Authentication: JWT / Firebase / OAuth
+# 📸 Screenshots
+Dashboard | Register Complaint | Status Tracking
 
+Login | Complaint List | Admin Panel
 Deployment: Vercel / Netlify / Heroku / Render
-
+# ⚙️ Installation & Setup
+Clone the repository:
+git clone https://github.com/your-username/resolvenow.git
+cd resolvenow
