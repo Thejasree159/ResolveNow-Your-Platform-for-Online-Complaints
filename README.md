@@ -31,7 +31,7 @@ ResolveNow is a simple and efficient platform that allows users to register comp
 # 📸 Screenshots
 Dashboard| Register Complaint | Status Tracking
 
-|........|....................|....................
+|---------|--------------------|-------------------|
 
 # ⚙️ Installation & Setup
 
