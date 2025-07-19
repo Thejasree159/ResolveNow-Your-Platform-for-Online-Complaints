@@ -22,6 +22,7 @@ Backend: Node.js / Django / Flask (edit based on your stack)
 Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
 
 Authentication: JWT / Firebase / OAuth
+Deployment: vercel / Netlify / Heroku / Render
 # 📸 Screenshots
 Dashboard | Register Complaint | Status Tracking
 
@@ -29,5 +30,15 @@ Login | Complaint List | Admin Panel
 Deployment: Vercel / Netlify / Heroku / Render
 # ⚙️ Installation & Setup
 1.Clone the repository:
-
-git clone https://github.com/your-username/resolvenow.gitcd resolvenow
+git clone https:// github.com/your-username/resolvenow.git
+2.Install dependencies:
+npm install
+3.Set up environment variables:
+create a .env file and add your configuration:
+DB_URI=your_database_uri
+JWT_SECRET=your_secret_key
+4.Start the development server:
+npm start
+5.🧪 Testing 
+Run tests using:
+npm test
