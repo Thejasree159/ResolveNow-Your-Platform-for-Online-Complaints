@@ -1,5 +1,6 @@
 # 🛠️ResolveNow-Your-Platform-for-Online-Complaints
 ResolveNow is a simple and efficient platform that allows users to register complaints, track status, and get resolutions online. This app streamlines the process for both citizens and authorities, ensuring transparency and faster resolutions.
+
 # 🚀Features 
 🧑‍💼 User & Admin Login
 
@@ -14,6 +15,7 @@ ResolveNow is a simple and efficient platform that allows users to register comp
 📜 View Complaint History
 
 📱 Responsive UI (Mobile + Web Friendly)
+
 # 🛠️ Tech stack
 Frontend: HTML, CSS, JavaScript / React (edit based on your stack)
 
@@ -23,10 +25,10 @@ Database: MongoDB / MySQL / PostgreSQL (edit as applicable)
 
 Authentication: JWT / Firebase / OAuth
 Deployment: vercel / Netlify / Heroku / Render
-# 📸 Screenshots
-Dashboard | Register Complaint | Status Tracking
 
-Login | Complaint List | Admin Panel
+# 📸 Screenshots
+Dashboard
+| Register Complaint | Status Tracking
 
 # ⚙️ Installation & Setup
 1.Clone the repository:
