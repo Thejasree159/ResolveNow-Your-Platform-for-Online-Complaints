@@ -28,11 +28,6 @@ ResolveNow is a simple and efficient platform that allows users to register comp
 
 - **Deployment**: vercel / Netlify / Heroku / Render
 
-# 📸 Screenshots
-Dashboard| Register Complaint | Status Tracking
-
-|---------|--------------------|-------------------|
-
 # ⚙️ Installation & Setup
 
 1.Clone the repository:
