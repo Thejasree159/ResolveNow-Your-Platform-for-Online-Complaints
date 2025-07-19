@@ -1,7 +1,7 @@
-# 🛠️ResolveNow-Your-Platform-for-Online-Complaints
+## 🛠️ResolveNow-Your-Platform-for-Online-Complaints
 ResolveNow is a simple and efficient platform that allows users to register complaints, track status, and get resolutions online. This app streamlines the process for both citizens and authorities, ensuring transparency and faster resolutions.
 
-# 🚀Features 
+## 🚀Features 
 🧑‍💼 User & Admin Login
 
 📝 Register Complaints Easily
@@ -16,7 +16,7 @@ ResolveNow is a simple and efficient platform that allows users to register comp
 
 📱 Responsive UI (Mobile + Web Friendly)
 
-# 🛠️ Tech stack
+## 🛠️ Tech stack
 
 - **Frontend**: HTML, CSS, JavaScript / React (edit based on your stack)
 
@@ -28,18 +28,18 @@ ResolveNow is a simple and efficient platform that allows users to register comp
 
 - **Deployment**: vercel / Netlify / Heroku / Render
 
-# ⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
-1.Clone the repository:
+1. 🖇️ Clone the repository:
 ```bash
 git clone https:// github.com/your-username/resolvenow.git
   ```
 
-2.Install dependencies:
+2. ⛏️ Install dependencies:
 ```bash
 npm install
 ```
-3.Set up environment variables:
+3. 🪛 Set up environment variables:
 
 create a .env file and add your configuration:
 ```env
@@ -47,7 +47,7 @@ DB_URI=your_database_uri
 
 JWT_SECRET=your_secret_key
 ```
-4.Start the development server:
+4. 🚀 Start the development server:
 ```bash
 npm start
 ```
@@ -57,7 +57,7 @@ Run tests using:
 ```bash
 npm test
 ```
-# 📌 Future Enhancements
+## 📌 Future Enhancements
 
 🧾 Complaint Category & Priority 
 
@@ -71,7 +71,7 @@ npm test
 
 📈 Analytics Dashboard for Admins 
 
-# 🐞 Known Issues 
+## 🐞 Known Issues 
 
 No push notification support yet
 
@@ -79,16 +79,16 @@ UI responsiveness may vary on extremely small screens
 
 No live chat functionality yet
 
-# 🤝 Contributing 
+## 🤝 Contributing 
 
 We welcome contributions!
 Fork the respiratory and submit a pull request to contribute to Resolve now
 
-# 📄 License 
+## 📄 License 
 
 This project is licensed under the MIT License 
 
-# 🔗 Resources 
+## 🔗 Resources 
 
 📁 Drive Folder: https://drive.google.com/drive/folders/1uGwb-keRJCab88xNFCD4EoXzZsDChZe3
 
