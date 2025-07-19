@@ -28,6 +28,6 @@ Dashboard | Register Complaint | Status Tracking
 Login | Complaint List | Admin Panel
 Deployment: Vercel / Netlify / Heroku / Render
 # ⚙️ Installation & Setup
-Clone the repository:
-git clone https://github.com/your-username/resolvenow.git
-cd resolvenow
+1.Clone the repository:
+
+git clone https://github.com/your-username/resolvenow.git cd resolvenow
