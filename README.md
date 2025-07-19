@@ -73,11 +73,11 @@ npm test
 
 ## 🐞 Known Issues 
 
-No push notification support yet
+- No push notification support yet
 
-UI responsiveness may vary on extremely small screens 
+- UI responsiveness may vary on extremely small screens 
 
-No live chat functionality yet
+- No live chat functionality yet
 
 ## 🤝 Contributing 
 
