@@ -30,4 +30,4 @@ Deployment: Vercel / Netlify / Heroku / Render
 # ⚙️ Installation & Setup
 1.Clone the repository:
 
-git clone https://github.com/your-username/resolvenow.git cd resolvenow
+git clone https://github.com/your-username/resolvenow.gitcd resolvenow
